@@ -3,6 +3,7 @@
 Instalando dependências ao projeto <br/>
 
 yarn add typescript @types/react @types/node -D 
+yarn add sass
 
 
 <img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" alt= "gif"><br />

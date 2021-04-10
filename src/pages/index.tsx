@@ -1,5 +1,8 @@
-export default function Home() {
+export default  function MyApp() {
   return (
-   <h1> Olá Mundo!</h1>
+    <div>
+      <h1>Olá mundo</h1>
+    </div>
   )
 }
+
