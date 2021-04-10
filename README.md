@@ -1,6 +1,9 @@
-O controle de tarefas deste projeto será realizado no gitHub
 
-##### Criado uma estrutura padrão para todos seus projetos em Next.js
+
+Instalando dependências ao projeto <br/>
+
+yarn add typescript @types/react @types/node -D 
+
 
 <img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" alt= "gif"><br />
 ### Estrutura  básica de projetos<br/>
