@@ -2,8 +2,9 @@
 
 Instalando dependências ao projeto <br/>
 
-yarn add typescript @types/react @types/node -D 
-yarn add sass
+yarn add typescript @types/react @types/node -D <br/>
+yarn add sass<br/>
+yarn add react-icons 
 
 
 <img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" alt= "gif"><br />
